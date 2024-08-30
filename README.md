@@ -1,3 +1,4 @@
 # first-git-repo
 This is my first git repo
-Initial change
+Initial change - first line added
+
